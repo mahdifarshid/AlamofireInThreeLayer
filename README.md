@@ -6,6 +6,7 @@ This is the sample project to  communicate with the server with 3 Layer
  - Xcode 9.2
  - Swift 4.0
  
+ ## Description
  - This project uses three layers to communicate with the server (Apiserver Model ViewController) 
  Your code will be arranged using these three layers
  - use extention for TableViewDelegate in Adapter Group ...  This makes your code readable
