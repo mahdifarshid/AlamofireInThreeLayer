@@ -1,6 +1,6 @@
 # AlamofireInThreeLayer
 
-This is the sample project created for a lot of data
+This is the sample project to  communicate with the server with 3 Layer
 
 ## Built using
  - Xcode 9.2
