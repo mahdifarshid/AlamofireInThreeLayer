@@ -6,4 +6,7 @@
 import Foundation
 class  GlobalNameSpace{
     static let BASEURL = "http://niroomohareke.ir"
+
+    static let ACCESS_TOKEN = "token"
+    static let REFRESH_TOKEN = "refreshToken"
 }
