@@ -1,7 +1,5 @@
 # AlamofireInThreeLayer
 
-# AlamofireInThreeLayer
-
 This is the sample project created for a lot of data
 
 ## Built using
