@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  MainVC.swift
 //  AlamofireInThreeLayer
 //
 //  Created by farshid on 27.03.19.
@@ -8,14 +8,18 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class MainVC: UIViewController {
 
-    @IBOutlet weak var TableView:UITableView!
+    @IBOutlet weak var tableView:UITableView!
     
-    var ApiMenuArray = Array<Lang>()
+    var apiMenuArray = Array<Lang>()
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        self.navigationController?.navigationBar.tintColor = UIColor.white
+
+        self.tableView.delegate = self
+        self.tableView.dataSource = self
 
         let menu = ApiMenuModel(self.view)
         menu.callback = getMenu
@@ -27,8 +31,8 @@ class ViewController: UIViewController {
 
     func getMenu(array: Array<Lang>) {
         if array.count > 0 {
-            self.ApiMenuArray = array
-            self.TableView.reloadData()
+            self.apiMenuArray = array
+            self.tableView.reloadData()
         }
     }
 
