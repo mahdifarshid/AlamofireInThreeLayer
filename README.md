@@ -1,4 +1,4 @@
-# AlamofireInThreeLayer
+# AlamofireMVC
 
 This is the sample project to  communicate with the server with 3 Layer
 
