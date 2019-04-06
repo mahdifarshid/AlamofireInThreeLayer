@@ -6,7 +6,7 @@ target 'AlamofireInThreeLayer' do
   use_frameworks!
  pod 'Alamofire', ' ~> 4.6'
   pod 'AlamofireObjectMapper'
-  pod 'SwiftyJSON'
+  # pod 'SwiftyJSON'
   pod 'Toast-Swift', '~> 3.0.0'
   # Pods for AlamofireInThreeLayer
 
