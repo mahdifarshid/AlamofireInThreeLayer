@@ -1,34 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="361d806f-ca2f-4e38-9d31-2c3ee53c5247" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/AlamofireInThreeLayer/EnumNetworkStatus.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AlamofireInThreeLayer/Model/BaseResponse.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AlamofireInThreeLayer/Network/GlobalService.swift" afterDir="false" />
+    <list default="true" id="361d806f-ca2f-4e38-9d31-2c3ee53c5247" name="Default Changelist" comment="MVC">
+      <change afterPath="$PROJECT_DIR$/AlamofireInThreeLayer/json.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AlamofireInThreeLayer.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/AlamofireInThreeLayer.xcodeproj/project.pbxproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AlamofireInThreeLayer.xcodeproj/xcuserdata/farshid.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" afterPath="$PROJECT_DIR$/AlamofireInThreeLayer.xcodeproj/xcuserdata/farshid.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AlamofireInThreeLayer/Adapter/MainAdapter.swift" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AlamofireInThreeLayer/Adapter/SubMenuAdapter.swift" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AlamofireInThreeLayer/ApiService.swift" beforeDir="false" afterPath="$PROJECT_DIR$/AlamofireInThreeLayer/Network/ApiService.swift" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AlamofireInThreeLayer/Model/ApiMenuModel.swift" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AlamofireInThreeLayer/Model/BaseModel.swift" beforeDir="false" afterPath="$PROJECT_DIR$/AlamofireInThreeLayer/Model/BaseModel.swift" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AlamofireInThreeLayer/Utility/Toast.swift" beforeDir="false" afterPath="$PROJECT_DIR$/AlamofireInThreeLayer/Utility/Toast.swift" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AlamofireInThreeLayer/ViewController/MainVC.swift" beforeDir="false" afterPath="$PROJECT_DIR$/AlamofireInThreeLayer/ViewController/MainVC.swift" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AlamofireInThreeLayer/ViewController/SubMenuVC.swift" beforeDir="false" afterPath="$PROJECT_DIR$/AlamofireInThreeLayer/ViewController/SubMenuVC.swift" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Podfile" beforeDir="false" afterPath="$PROJECT_DIR$/Podfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Podfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Podfile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/Manifest.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Pods/Manifest.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/Pods.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/Pods/Pods.xcodeproj/project.pbxproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/Pods.xcodeproj/xcuserdata/farshid.xcuserdatad/xcschemes/Pods-AlamofireInThreeLayer.xcscheme" beforeDir="false" afterPath="$PROJECT_DIR$/Pods/Pods.xcodeproj/xcuserdata/farshid.xcuserdatad/xcschemes/Pods-AlamofireInThreeLayer.xcscheme" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/Pods.xcodeproj/xcuserdata/farshid.xcuserdatad/xcschemes/SwiftyJSON.xcscheme" beforeDir="false" afterPath="$PROJECT_DIR$/Pods/Pods.xcodeproj/xcuserdata/farshid.xcuserdatad/xcschemes/SwiftyJSON.xcscheme" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/Pods.xcodeproj/xcuserdata/farshid.xcuserdatad/xcschemes/Toast-Swift.xcscheme" beforeDir="false" afterPath="$PROJECT_DIR$/Pods/Pods.xcodeproj/xcuserdata/farshid.xcuserdatad/xcschemes/Toast-Swift.xcscheme" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/Pods.xcodeproj/xcuserdata/farshid.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" afterPath="$PROJECT_DIR$/Pods/Pods.xcodeproj/xcuserdata/farshid.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/Target Support Files/Pods-AlamofireInThreeLayer/Pods-AlamofireInThreeLayer-acknowledgements.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/Pods/Target Support Files/Pods-AlamofireInThreeLayer/Pods-AlamofireInThreeLayer-acknowledgements.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/Target Support Files/Pods-AlamofireInThreeLayer/Pods-AlamofireInThreeLayer-acknowledgements.plist" beforeDir="false" afterPath="$PROJECT_DIR$/Pods/Target Support Files/Pods-AlamofireInThreeLayer/Pods-AlamofireInThreeLayer-acknowledgements.plist" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/Target Support Files/Pods-AlamofireInThreeLayer/Pods-AlamofireInThreeLayer-frameworks.sh" beforeDir="false" afterPath="$PROJECT_DIR$/Pods/Target Support Files/Pods-AlamofireInThreeLayer/Pods-AlamofireInThreeLayer-frameworks.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/Target Support Files/Pods-AlamofireInThreeLayer/Pods-AlamofireInThreeLayer.debug.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Pods/Target Support Files/Pods-AlamofireInThreeLayer/Pods-AlamofireInThreeLayer.debug.xcconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pods/Target Support Files/Pods-AlamofireInThreeLayer/Pods-AlamofireInThreeLayer.release.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Pods/Target Support Files/Pods-AlamofireInThreeLayer/Pods-AlamofireInThreeLayer.release.xcconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlamofireInThreeLayer/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/AlamofireInThreeLayer/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlamofireInThreeLayer/Model/BaseModel.swift" beforeDir="false" afterPath="$PROJECT_DIR$/AlamofireInThreeLayer/Cell/Model/BaseModel.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlamofireInThreeLayer/Model/BaseResponse.swift" beforeDir="false" afterPath="$PROJECT_DIR$/AlamofireInThreeLayer/Cell/Model/BaseResponse.swift" afterDir="false" />
     </list>
     <ignored path="$USER_HOME$/Library/Developer/Xcode/DerivedData/AlamofireInThreeLayer-fhnhlmatqhmmhrcchobjtcpaiugl/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,107 +18,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="iphoneos_b522493014ad4a8105728425595a3a6a7de0663e" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AlamofireInThreeLayer/ViewController/MainVC.swift">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="70" selection-start-line="70" selection-end-line="70" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AlamofireInThreeLayer/Network/ApiService.swift">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="229">
-              <caret line="47" column="24" selection-start-line="47" selection-start-column="24" selection-end-line="47" selection-end-column="24" />
-              <folding>
-                <element signature="e#148#165#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/AlamofireInThreeLayer/Utility/Toast.swift">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="6" column="12" lean-forward="true" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AlamofireInThreeLayer/Network/GlobalService.swift">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="621">
-              <caret line="28" selection-start-line="28" selection-end-line="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AlamofireInThreeLayer/Model/BaseResponse.swift">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="506">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AlamofireInThreeLayer/Model/BaseModel.swift">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-23">
-              <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
-              <folding>
-                <element signature="e#169#186#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AlamofireInThreeLayer/EnumNetworkStatus.swift">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="295">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Podfile">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AlamofireInThreeLayer/ViewController/SubMenuVC.swift">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="37" selection-start-line="37" selection-end-line="37" />
-              <folding>
-                <element signature="e#115#132#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AlamofireInThreeLayer/GlobalNameSpace.swift">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -161,21 +40,22 @@
         <option value="$PROJECT_DIR$/AlamofireInThreeLayer/Adapter/SubMenuAdapter.swift" />
         <option value="$PROJECT_DIR$/AlamofireInThreeLayer/Adapter/MainAdapter.swift" />
         <option value="$PROJECT_DIR$/AlamofireInThreeLayer/Network/ApiService.swift" />
-        <option value="$PROJECT_DIR$/AlamofireInThreeLayer/Network/GlobalService.swift" />
         <option value="$PROJECT_DIR$/AlamofireInThreeLayer/Model/BaseResponse.swift" />
         <option value="$PROJECT_DIR$/AlamofireInThreeLayer/Model/BaseModel.swift" />
-        <option value="$PROJECT_DIR$/Podfile" />
         <option value="$PROJECT_DIR$/AlamofireInThreeLayer/ViewController/MainVC.swift" />
         <option value="$PROJECT_DIR$/AlamofireInThreeLayer/ViewController/SubMenuVC.swift" />
         <option value="$PROJECT_DIR$/AlamofireInThreeLayer/EnumNetworkStatus.swift" />
         <option value="$PROJECT_DIR$/AlamofireInThreeLayer/Utility/Toast.swift" />
+        <option value="$PROJECT_DIR$/Podfile" />
+        <option value="$PROJECT_DIR$/AlamofireInThreeLayer/Network/GlobalService.swift" />
+        <option value="$PROJECT_DIR$/AlamofireInThreeLayer/json.json" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="75" />
-    <option name="y" value="39" />
-    <option name="width" value="969" />
+    <option name="x" value="51" />
+    <option name="y" value="22" />
+    <option name="width" value="1277" />
     <option name="height" value="656" />
   </component>
   <component name="ProjectView">
@@ -195,30 +75,6 @@
               <item name="" type="efc3779f:XcodeRootNode" />
               <item name="AlamofireInThreeLayer" type="1d218c8b:XcodeProjectNode" />
               <item name="AlamofireInThreeLayer" type="fcab9f18:XcodeViewNode" />
-            </path>
-            <path>
-              <item name="" type="efc3779f:XcodeRootNode" />
-              <item name="AlamofireInThreeLayer" type="1d218c8b:XcodeProjectNode" />
-              <item name="AlamofireInThreeLayer" type="fcab9f18:XcodeViewNode" />
-              <item name="Cell" type="fcab9f18:XcodeViewNode" />
-            </path>
-            <path>
-              <item name="" type="efc3779f:XcodeRootNode" />
-              <item name="AlamofireInThreeLayer" type="1d218c8b:XcodeProjectNode" />
-              <item name="AlamofireInThreeLayer" type="fcab9f18:XcodeViewNode" />
-              <item name="Model" type="fcab9f18:XcodeViewNode" />
-            </path>
-            <path>
-              <item name="" type="efc3779f:XcodeRootNode" />
-              <item name="AlamofireInThreeLayer" type="1d218c8b:XcodeProjectNode" />
-              <item name="AlamofireInThreeLayer" type="fcab9f18:XcodeViewNode" />
-              <item name="Network" type="fcab9f18:XcodeViewNode" />
-            </path>
-            <path>
-              <item name="" type="efc3779f:XcodeRootNode" />
-              <item name="AlamofireInThreeLayer" type="1d218c8b:XcodeProjectNode" />
-              <item name="AlamofireInThreeLayer" type="fcab9f18:XcodeViewNode" />
-              <item name="Utility" type="fcab9f18:XcodeViewNode" />
             </path>
             <path>
               <item name="" type="efc3779f:XcodeRootNode" />
@@ -272,24 +128,38 @@
       <option name="presentableId" value="Default" />
       <updated>1553675208941</updated>
       <workItem from="1553675215326" duration="3371000" />
-      <workItem from="1554551276757" duration="768000" />
+      <workItem from="1554551276757" duration="1743000" />
     </task>
+    <task id="LOCAL-00001" summary="MVC">
+      <created>1554552193879</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1554552193879</updated>
+    </task>
+    <task id="LOCAL-00002" summary="MVC">
+      <created>1554552581407</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1554552581407</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4139000" />
+    <option name="totallyTimeSpent" value="5114000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="75" y="39" width="969" height="656" extended-state="0" />
-    <editor active="true" />
+    <frame x="51" y="22" width="1277" height="656" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.36893204" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2769231" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32993197" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.107664235" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.071167886" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -298,7 +168,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.054744527" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.054744527" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.15328467" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -310,6 +180,11 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <MESSAGE value="MVC" />
+    <option name="LAST_COMMIT_MESSAGE" value="MVC" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/AlamofireInThreeLayer/Cell/MenuCell.swift">
       <provider selected="true" editor-type-id="text-editor">
@@ -318,13 +193,6 @@
           <folding>
             <element signature="e#115#132#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AlamofireInThreeLayer/AppDelegate.swift">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="47" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="47" />
         </state>
       </provider>
     </entry>
@@ -348,13 +216,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Podfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/AlamofireInThreeLayer/Adapter/SubMenuAdapter.swift">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
@@ -362,13 +223,6 @@
           <folding>
             <element signature="e#115#132#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AlamofireInThreeLayer/ViewController/MainVC.swift">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="70" selection-start-line="70" selection-end-line="70" />
         </state>
       </provider>
     </entry>
@@ -382,58 +236,89 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AlamofireInThreeLayer/Network/GlobalService.swift">
+    <entry file="file://$PROJECT_DIR$/Podfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="621">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        <state relative-caret-position="115">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AlamofireInThreeLayer/EnumNetworkStatus.swift">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="311">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AlamofireInThreeLayer/AppDelegate.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-646">
+          <caret line="5" column="47" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="47" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AlamofireInThreeLayer/GlobalNameSpace.swift">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="161">
+          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="49" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AlamofireInThreeLayer/Model/BaseResponse.swift">
+    <entry file="file://$PROJECT_DIR$/AlamofireInThreeLayer/Cell/Model/BaseModel.swift">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AlamofireInThreeLayer/Model/BaseModel.swift">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-23">
-          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        <state relative-caret-position="23">
+          <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
           <folding>
             <element signature="e#169#186#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/AlamofireInThreeLayer/Network/GlobalService.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AlamofireInThreeLayer/Cell/Model/BaseResponse.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AlamofireInThreeLayer/Utility/Toast.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+          <folding>
+            <element signature="e#112#129#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/AlamofireInThreeLayer/Network/ApiService.swift">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="47" column="24" selection-start-line="47" selection-start-column="24" selection-end-line="47" selection-end-column="24" />
+        <state relative-caret-position="-740">
+          <caret line="38" column="16" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="16" />
           <folding>
             <element signature="e#148#165#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AlamofireInThreeLayer/Utility/Toast.swift">
+    <entry file="file://$PROJECT_DIR$/AlamofireInThreeLayer/ViewController/MainVC.swift">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="6" column="12" lean-forward="true" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+        <state relative-caret-position="139">
+          <caret line="29" column="37" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AlamofireInThreeLayer/json.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
         </state>
       </provider>
     </entry>

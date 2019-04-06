@@ -1,0 +1,530 @@
+[
+  {
+    "En": "social",
+    "Fa": "اجتماعی",
+    "SUB": [
+      {
+        "En": "social\/education",
+        "Fa": "آموزش و پرورش"
+      },
+      {
+        "En": "social\/public-health",
+        "Fa": "بهداشت عمومی و تغذیه"
+      },
+      {
+        "En": "social\/medicine-spirituality",
+        "Fa": "سلامت"
+      },
+      {
+        "En": "social\/legal-judicial",
+        "Fa": "حقوقی و قضایی"
+      },
+      {
+        "En": "social\/police-events",
+        "Fa": "انتظامی و حوادث"
+      },
+      {
+        "En": "social\/environment-tourism",
+        "Fa": "محیط زیست و گردشگری"
+      },
+      {
+        "En": "social\/welfare",
+        "Fa": "شهری"
+      },
+      {
+        "En": "social\/welfare-social-harm",
+        "Fa": "رفاه و آسیب های اجتماعی"
+      },
+      {
+        "En": "social\/social-responsibility",
+        "Fa": "مسئولیت های اجتماعی"
+      },
+      {
+        "En": "social\/power-groups",
+        "Fa": "گروههای توان خواه"
+      },
+      {
+        "En": "social\/women-youth",
+        "Fa": "زنان و جوانان"
+      }
+    ]
+  },
+  {
+    "En": "economy",
+    "Fa": "اقتصادی",
+    "SUB": [
+      {
+        "En": "economy\/macroeconomics",
+        "Fa": "اقتصاد کلان و بودجه"
+      },
+      {
+        "En": "economy\/occupation",
+        "Fa": "تعاون و اشتغال"
+      },
+      {
+        "En": "economy\/stock",
+        "Fa": "بورس"
+      },
+      {
+        "En": "economy\/banking",
+        "Fa": "بیمه و بانک"
+      },
+      {
+        "En": "economy\/civil",
+        "Fa": "راه و مسکن"
+      },
+      {
+        "En": "economy\/business",
+        "Fa": "صنعت، تجارت، بازرگانی"
+      },
+      {
+        "En": "economy\/agriculture",
+        "Fa": "کشاورزی و امور دام"
+      },
+      {
+        "En": "economy\/energy",
+        "Fa": "نفت و انرژی"
+      },
+      {
+        "En": "economy\/world-economy",
+        "Fa": "اقتصاد بین الملل"
+      },
+      {
+        "En": "economy\/it",
+        "Fa": "ارتباطات و فن آوری اطلاعات"
+      },
+      {
+        "En": "economy\/economic-warfare",
+        "Fa": "جنگ اقتصادی"
+      },
+      {
+        "En": "economy\/others",
+        "Fa": "سایر حوزه ها"
+      },
+      {
+        "En": "economy\/companies-news",
+        "Fa": "بازار"
+      }
+    ]
+  },
+  {
+    "En": "world",
+    "Fa": "بین الملل",
+    "SUB": [
+      {
+        "En": "world\/europe-amercia",
+        "Fa": "آمریکا و اروپا"
+      },
+      {
+        "En": "world\/asia-pacific",
+        "Fa": "شرق آسیا و اقیانوسیه"
+      },
+      {
+        "En": "world\/west-asia",
+        "Fa": "غرب آسیا"
+      },
+      {
+        "En": "world\/africa",
+        "Fa": "آفریقا"
+      },
+      {
+        "En": "world\/islamic-forces",
+        "Fa": "محور مقاومت"
+      },
+      {
+        "En": "world\/iran",
+        "Fa": "ایران در جهان"
+      },
+      {
+        "En": "world\/Analysis-International",
+        "Fa": "تحلیل بین الملل"
+      },
+      {
+        "En": "foreign-policy",
+        "Fa": "سیاست خارجی"
+      },
+      {
+        "En": "world\/others",
+        "Fa": "سایر حوزه ها"
+      }
+    ]
+  },
+  {
+    "En": "politics",
+    "Fa": "سیاسی",
+    "SUB": [
+      {
+        "En": "politics\/leadership",
+        "Fa": "امام و رهبری"
+      },
+      {
+        "En": "politics\/parties",
+        "Fa": "احزاب و تشکلها"
+      },
+      {
+        "En": "politics\/defense",
+        "Fa": "امنیتی و دفاعی"
+      },
+      {
+        "En": "politics\/government",
+        "Fa": "دولت"
+      },
+      {
+        "En": "politics\/parliament",
+        "Fa": "مجلس"
+      },
+      {
+        "En": "politics\/academic-formations",
+        "Fa": "تشکل های دانشگاهی"
+      },
+      {
+        "En": "politics\/others",
+        "Fa": "سایر حوزه ها"
+      }
+    ]
+  },
+  {
+    "En": "scientific-academic",
+    "Fa": "علمی و دانشگاهی",
+    "SUB": [
+      {
+        "En": "scientific-academic\/education",
+        "Fa": "آموزش"
+      },
+      {
+        "En": "scientific-academic\/research",
+        "Fa": "پژوهش"
+      },
+      {
+        "En": "scientific-academic\/culture",
+        "Fa": "صنفی فرهنگی"
+      },
+      {
+        "En": "scientific-academic\/iran-science",
+        "Fa": "علم و فن آوری ایران"
+      },
+      {
+        "En": "scientific-academic\/world-science",
+        "Fa": "علم و فن آوری جهان"
+      },
+      {
+        "En": "scientific-academic\/knowledge",
+        "Fa": "اطلاعات عمومی و دانستنی ها"
+      },
+      {
+        "En": "scientific-academic\/others",
+        "Fa": "سایر حوزه ها"
+      }
+    ]
+  },
+  {
+    "En": "culture",
+    "Fa": "فرهنگ و هنر",
+    "SUB": [
+      {
+        "En": "culture\/general-culture",
+        "Fa": "فرهنگ عمومی"
+      },
+      {
+        "En": "culture\/book",
+        "Fa": "کتاب و ادبیات"
+      },
+      {
+        "En": "culture\/media",
+        "Fa": "رسانه"
+      },
+      {
+        "En": "culture\/Radio-tv",
+        "Fa": "رادیو و تلویزیون"
+      },
+      {
+        "En": "culture\/cinema-drama",
+        "Fa": "سینما و تئاتر"
+      },
+      {
+        "En": "culture\/music",
+        "Fa": "موسیقی و هنرهای تجسمی"
+      },
+      {
+        "En": "culture\/thought",
+        "Fa": "اندیشه"
+      },
+      {
+        "En": "culture\/quran",
+        "Fa": "قرآن و فعالیت های دینی"
+      },
+      {
+        "En": "culture\/mosque",
+        "Fa": "مسجد و هیئت"
+      },
+      {
+        "En": "culture\/hajj-pilgrimage-waqf",
+        "Fa": "حج و زیارت و وقف"
+      },
+      {
+        "En": "culture\/others",
+        "Fa": "سایر حوزه ها"
+      }
+    ]
+  },
+  {
+    "En": "sports",
+    "Fa": "ورزشی",
+    "SUB": [
+      {
+        "En": "sports\/football-iran",
+        "Fa": "فوتبال ایران"
+      },
+      {
+        "En": "sports\/football-world",
+        "Fa": "فوتبال جهان"
+      },
+      {
+        "En": "sports\/wrestling-powerlifting",
+        "Fa": "کشتی و وزنه برداری"
+      },
+      {
+        "En": "sports\/martial-arts",
+        "Fa": "ورزش های رزمی"
+      },
+      {
+        "En": "sports\/ballgames",
+        "Fa": "توپ و تور"
+      },
+      {
+        "En": "sports\/women",
+        "Fa": "ورزش بانوان"
+      },
+      {
+        "En": "sports\/world",
+        "Fa": "ورزش بین الملل"
+      },
+      {
+        "En": "sports\/video",
+        "Fa": "فیلم"
+      },
+      {
+        "En": "sports\/photo",
+        "Fa": "عکس"
+      },
+      {
+        "En": "sports\/others",
+        "Fa": "سایر حوزه ها"
+      }
+    ]
+  },
+  {
+    "En": "province",
+    "Fa": "استانها",
+    "SUB": [
+      {
+        "En": "azarbaijan-sharghi",
+        "Fa": "آذربایجان شرقی"
+      },
+      {
+        "En": "azarbaijan-gharbi",
+        "Fa": "آذربایجان غربی"
+      },
+      {
+        "En": "ardabil",
+        "Fa": "اردبیل"
+      },
+      {
+        "En": "isfahan",
+        "Fa": "اصفهان"
+      },
+      {
+        "En": "alborz",
+        "Fa": "البرز"
+      },
+      {
+        "En": "ilam",
+        "Fa": "ایلام"
+      },
+      {
+        "En": "bushehr",
+        "Fa": "بوشهر"
+      },
+      {
+        "En": "tehran",
+        "Fa": "تهران"
+      },
+      {
+        "En": "Chaharmahal-Bakhtiari",
+        "Fa": "چهار محال و بختیاری"
+      },
+      {
+        "En": "khorasan-jonubi",
+        "Fa": "خراسان جنوبی"
+      },
+      {
+        "En": "razavi",
+        "Fa": "خراسان رضوی"
+      },
+      {
+        "En": "khorasan-shomali",
+        "Fa": "خراسان شمالی"
+      },
+      {
+        "En": "khuzestan",
+        "Fa": "خوزستان"
+      },
+      {
+        "En": "zanjan",
+        "Fa": "زنجان"
+      },
+      {
+        "En": "semnan",
+        "Fa": "سمنان"
+      },
+      {
+        "En": "sistan-baluchestan",
+        "Fa": "سیستان و بلوچستان"
+      },
+      {
+        "En": "fars",
+        "Fa": "فارس"
+      },
+      {
+        "En": "qazvin",
+        "Fa": "قزوین"
+      },
+      {
+        "En": "qom",
+        "Fa": "قم"
+      },
+      {
+        "En": "kordestan",
+        "Fa": "کردستان"
+      },
+      {
+        "En": "kerman",
+        "Fa": "کرمان"
+      },
+      {
+        "En": "kermanshah",
+        "Fa": "کرمانشاه"
+      },
+      {
+        "En": "Kohgiluyeh-Boyerahmad",
+        "Fa": "كهگیلویه و بویراحمد"
+      },
+      {
+        "En": "golestan",
+        "Fa": "گلستان"
+      },
+      {
+        "En": "gilan",
+        "Fa": "گیلان"
+      },
+      {
+        "En": "lorestan",
+        "Fa": "لرستان"
+      },
+      {
+        "En": "mazandaran",
+        "Fa": "مازندران"
+      },
+      {
+        "En": "markazi",
+        "Fa": "مرکزی"
+      },
+      {
+        "En": "hormozgan",
+        "Fa": "هرمزگان"
+      },
+      {
+        "En": "hamedan",
+        "Fa": "همدان"
+      },
+      {
+        "En": "yazd",
+        "Fa": "یزد"
+      }
+    ]
+  },
+  {
+    "En": "photo",
+    "Fa": "عکس",
+    "SUB": [
+      {
+        "En": "photo\/provinces",
+        "Fa": "استانها"
+      },
+      {
+        "En": "photo\/journalism",
+        "Fa": "خبری"
+      },
+      {
+        "En": "photo\/documentary",
+        "Fa": "مستند"
+      },
+      {
+        "En": "photo\/sports",
+        "Fa": "ورزشی"
+      },
+      {
+        "En": "photo\/received",
+        "Fa": "دریافتی"
+      },
+      {
+        "En": "photo\/day",
+        "Fa": "عکس روز"
+      },
+      {
+        "En": "graphic\/cartoon",
+        "Fa": "کاریکاتور"
+      },
+      {
+        "En": "graphic",
+        "Fa": "گرافیک"
+      }
+    ]
+  },
+  {
+    "En": "multimedia",
+    "Fa": "فیلم"
+  },
+  {
+    "En": "https:\/\/ir1.live21.ir\/official\/farsnews",
+    "Fa": "پخش زنده"
+  },
+  {
+    "En": "farsplus-magazine",
+    "Fa": "فارس +",
+    "SUB": [
+      {
+        "En": "west-view-west",
+        "Fa": "غرب از نگاه غرب"
+      },
+      {
+        "En": "resistance",
+        "Fa": "حماسه و مقاومت"
+      },
+      {
+        "En": "good-news",
+        "Fa": "خبر خوب"
+      },
+      {
+        "En": "history",
+        "Fa": "تاریخ"
+      },
+      {
+        "En": "family",
+        "Fa": "خانواده"
+      },
+      {
+        "En": "viewpoint",
+        "Fa": "دیدگاه"
+      },
+      {
+        "En": "rumor",
+        "Fa": "شبهه و شایعه"
+      },
+      {
+        "En": "other-media",
+        "Fa": "ديگر رسانه ها"
+      }
+    ]
+  }
+]
