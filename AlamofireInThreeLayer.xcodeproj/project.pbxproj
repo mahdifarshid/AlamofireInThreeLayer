@@ -8,20 +8,20 @@
 
 /* Begin PBXBuildFile section */
 		52FC25C627A4851AD9CB2F8F /* Pods_AlamofireInThreeLayer.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 564165A3EE1D401E325C4DD2 /* Pods_AlamofireInThreeLayer.framework */; };
+		BFBE003B1D86AFCA5E8FF668 /* ApiService.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFBE0AC2FDA373951FC805D7 /* ApiService.swift */; };
 		BFBE021223B4B72DD250DE59 /* SubMenuVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFBE001ED8021EC596BFB11B /* SubMenuVC.swift */; };
-		BFBE051697EAC0433E41B237 /* MainAdapter.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFBE0E886CD160424CEDA7CD /* MainAdapter.swift */; };
 		BFBE067A0CF22634509D179C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BFBE0CC359BF37DD2B0EADF6 /* LaunchScreen.storyboard */; };
-		BFBE091011F1DA20B9E43331 /* SubMenuAdapter.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFBE07A989E40420785870D5 /* SubMenuAdapter.swift */; };
+		BFBE07D762C45333D324191D /* EnumNetworkStatus.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFBE01CDB7DCE66F7AA7FC04 /* EnumNetworkStatus.swift */; };
+		BFBE091392DC4CED06FFAE9B /* BaseResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFBE0969DBD88AEC6A6AEF95 /* BaseResponse.swift */; };
 		BFBE0A3074202E7200D51EA2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BFBE0D3E4023B85E9B18B227 /* Main.storyboard */; };
+		BFBE0C1242610C4A98A8B7F4 /* GlobalService.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFBE04EAB55379403EE43430 /* GlobalService.swift */; };
 		BFBE0D6A056082C9D3A8627F /* MainVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFBE02A9B2752901B761320F /* MainVC.swift */; };
-		BFBE0D85C55814EA3D11BC76 /* ApiMenuModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFBE0FF3322A7A4E8DFF5C1A /* ApiMenuModel.swift */; };
 		BFBE0E650C6A84C68255AD91 /* MenuCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFBE0380FED6E96E029C1757 /* MenuCell.swift */; };
 		BFBE0E9A46B26453DA82C856 /* BaseModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFBE068AF05558FBFCD51BFF /* BaseModel.swift */; };
 		BFBE0ED7C27ED145B2AFD5AE /* GlobalNameSpace.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFBE0486D70D2C3B990D6488 /* GlobalNameSpace.swift */; };
 		BFBE0F1EC4DE791D41B6B372 /* Toast.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFBE0E0FCA1CE2EEB002FC18 /* Toast.swift */; };
 		E89DE836224B6AAA0049B13E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E89DE835224B6AAA0049B13E /* AppDelegate.swift */; };
 		E89DE83D224B6AAA0049B13E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E89DE83C224B6AAA0049B13E /* Assets.xcassets */; };
-		E89DE848224B6AB30049B13E /* ApiService.swift in Sources */ = {isa = PBXBuildFile; fileRef = E89DE847224B6AB30049B13E /* ApiService.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,21 +29,21 @@
 		564165A3EE1D401E325C4DD2 /* Pods_AlamofireInThreeLayer.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_AlamofireInThreeLayer.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		91FA31BAA0C7F3BCD96B3193 /* Pods-AlamofireInThreeLayer.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AlamofireInThreeLayer.release.xcconfig"; path = "Target Support Files/Pods-AlamofireInThreeLayer/Pods-AlamofireInThreeLayer.release.xcconfig"; sourceTree = "<group>"; };
 		BFBE001ED8021EC596BFB11B /* SubMenuVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SubMenuVC.swift; sourceTree = "<group>"; };
+		BFBE01CDB7DCE66F7AA7FC04 /* EnumNetworkStatus.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EnumNetworkStatus.swift; sourceTree = "<group>"; };
 		BFBE02A9B2752901B761320F /* MainVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MainVC.swift; sourceTree = "<group>"; };
 		BFBE0380FED6E96E029C1757 /* MenuCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MenuCell.swift; sourceTree = "<group>"; };
 		BFBE0486D70D2C3B990D6488 /* GlobalNameSpace.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GlobalNameSpace.swift; sourceTree = "<group>"; };
+		BFBE04EAB55379403EE43430 /* GlobalService.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GlobalService.swift; sourceTree = "<group>"; };
 		BFBE068AF05558FBFCD51BFF /* BaseModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BaseModel.swift; sourceTree = "<group>"; };
-		BFBE07A989E40420785870D5 /* SubMenuAdapter.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SubMenuAdapter.swift; sourceTree = "<group>"; };
+		BFBE0969DBD88AEC6A6AEF95 /* BaseResponse.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BaseResponse.swift; sourceTree = "<group>"; };
+		BFBE0AC2FDA373951FC805D7 /* ApiService.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ApiService.swift; sourceTree = "<group>"; };
 		BFBE0CC359BF37DD2B0EADF6 /* LaunchScreen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BFBE0D3E4023B85E9B18B227 /* Main.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 		BFBE0E0FCA1CE2EEB002FC18 /* Toast.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Toast.swift; sourceTree = "<group>"; };
-		BFBE0E886CD160424CEDA7CD /* MainAdapter.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MainAdapter.swift; sourceTree = "<group>"; };
-		BFBE0FF3322A7A4E8DFF5C1A /* ApiMenuModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ApiMenuModel.swift; sourceTree = "<group>"; };
 		E89DE832224B6AAA0049B13E /* AlamofireInThreeLayer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AlamofireInThreeLayer.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E89DE835224B6AAA0049B13E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E89DE83C224B6AAA0049B13E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E89DE841224B6AAA0049B13E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		E89DE847224B6AB30049B13E /* ApiService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ApiService.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,22 +75,22 @@
 			path = StoryBoard;
 			sourceTree = "<group>";
 		};
-		BFBE0628737D416BFE0D1B0A /* Adapter */ = {
-			isa = PBXGroup;
-			children = (
-				BFBE0E886CD160424CEDA7CD /* MainAdapter.swift */,
-				BFBE07A989E40420785870D5 /* SubMenuAdapter.swift */,
-			);
-			path = Adapter;
-			sourceTree = "<group>";
-		};
 		BFBE0680E5DC47B7DE1023CD /* Model */ = {
 			isa = PBXGroup;
 			children = (
-				BFBE0FF3322A7A4E8DFF5C1A /* ApiMenuModel.swift */,
 				BFBE068AF05558FBFCD51BFF /* BaseModel.swift */,
+				BFBE0969DBD88AEC6A6AEF95 /* BaseResponse.swift */,
 			);
 			path = Model;
+			sourceTree = "<group>";
+		};
+		BFBE0958F5A6C4A27A5BCF59 /* Network */ = {
+			isa = PBXGroup;
+			children = (
+				BFBE0AC2FDA373951FC805D7 /* ApiService.swift */,
+				BFBE04EAB55379403EE43430 /* GlobalService.swift */,
+			);
+			path = Network;
 			sourceTree = "<group>";
 		};
 		BFBE0A93571AB7021FC211BC /* Utility */ = {
@@ -148,8 +148,6 @@
 		E89DE834224B6AAA0049B13E /* AlamofireInThreeLayer */ = {
 			isa = PBXGroup;
 			children = (
-				BFBE0628737D416BFE0D1B0A /* Adapter */,
-				E89DE847224B6AB30049B13E /* ApiService.swift */,
 				E89DE835224B6AAA0049B13E /* AppDelegate.swift */,
 				E89DE83C224B6AAA0049B13E /* Assets.xcassets */,
 				BFBE0C558F72FA765F35974B /* Cell */,
@@ -159,6 +157,8 @@
 				BFBE06035F2584D7A10A810B /* StoryBoard */,
 				BFBE0A93571AB7021FC211BC /* Utility */,
 				BFBE0FD2FE9AB970F6DFA88F /* ViewController */,
+				BFBE0958F5A6C4A27A5BCF59 /* Network */,
+				BFBE01CDB7DCE66F7AA7FC04 /* EnumNetworkStatus.swift */,
 			);
 			path = AlamofireInThreeLayer;
 			sourceTree = "<group>";
@@ -241,12 +241,18 @@
 			inputPaths = (
 				"${PODS_ROOT}/Target Support Files/Pods-AlamofireInThreeLayer/Pods-AlamofireInThreeLayer-frameworks.sh",
 				"${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework",
+				"${BUILT_PRODUCTS_DIR}/AlamofireObjectMapper/AlamofireObjectMapper.framework",
+				"${BUILT_PRODUCTS_DIR}/ObjectMapper/ObjectMapper.framework",
 				"${BUILT_PRODUCTS_DIR}/SwiftyJSON/SwiftyJSON.framework",
+				"${BUILT_PRODUCTS_DIR}/Toast-Swift/Toast_Swift.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputPaths = (
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Alamofire.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/AlamofireObjectMapper.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/ObjectMapper.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SwiftyJSON.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Toast_Swift.framework",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -279,16 +285,16 @@
 			buildActionMask = 2147483647;
 			files = (
 				E89DE836224B6AAA0049B13E /* AppDelegate.swift in Sources */,
-				E89DE848224B6AB30049B13E /* ApiService.swift in Sources */,
 				BFBE0F1EC4DE791D41B6B372 /* Toast.swift in Sources */,
 				BFBE0D6A056082C9D3A8627F /* MainVC.swift in Sources */,
-				BFBE0D85C55814EA3D11BC76 /* ApiMenuModel.swift in Sources */,
 				BFBE0ED7C27ED145B2AFD5AE /* GlobalNameSpace.swift in Sources */,
 				BFBE0E9A46B26453DA82C856 /* BaseModel.swift in Sources */,
 				BFBE0E650C6A84C68255AD91 /* MenuCell.swift in Sources */,
 				BFBE021223B4B72DD250DE59 /* SubMenuVC.swift in Sources */,
-				BFBE051697EAC0433E41B237 /* MainAdapter.swift in Sources */,
-				BFBE091011F1DA20B9E43331 /* SubMenuAdapter.swift in Sources */,
+				BFBE003B1D86AFCA5E8FF668 /* ApiService.swift in Sources */,
+				BFBE0C1242610C4A98A8B7F4 /* GlobalService.swift in Sources */,
+				BFBE091392DC4CED06FFAE9B /* BaseResponse.swift in Sources */,
+				BFBE07D762C45333D324191D /* EnumNetworkStatus.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

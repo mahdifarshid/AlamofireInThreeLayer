@@ -8,14 +8,15 @@ import UIKit
 import Toast_Swift
 
 class Toast{
-    static func Make(_ view:UIView,_ text:String,_ duration:Double) {
+    static func Make(_ text:String,_ duration:Double) {
         var style = ToastStyle()
         style.messageColor = .white
         style.backgroundColor = .gray
         style.cornerRadius = 20
         style.horizontalPadding = 20
         style.verticalPadding = 13
-        view.makeToast(text, duration: duration, position: .bottom, style: style)
+        let toastDisplayView = UIApplication.shared.windows.last
+        toastDisplayView?.makeToast(text, duration: duration, position: .bottom, style: style)
     }
 
 }
